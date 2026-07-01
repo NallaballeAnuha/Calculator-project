@@ -31,8 +31,6 @@ No frameworks or libraries used.
 
 ## 👩‍💻 About Me
 Beginner frontend developer building projects to learn HTML, CSS & JavaScript.
-*Connect with me:* 
-- Email:nallaballeanuha@gmail.com
 
 **Connect with me:** 
 - Email:nallaballeanuha@gmail.com
