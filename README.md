@@ -21,9 +21,6 @@ No frameworks or libraries used.
 2. Open `index.html` in your browser
 3. Start calculating!
 
-## 📸 Screenshot
-![Calculator Screenshot](screenshot.png)
-
 ## 🔮 Future Improvements
 - [ ] Keyboard input support
 - [ ] Calculation history 
