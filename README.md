@@ -32,5 +32,8 @@ No frameworks or libraries used.
 ## 👩‍💻 About Me
 Beginner frontend developer building projects to learn HTML, CSS & JavaScript.
 
+## 🔗 Live Demo
+https://nallaballeanuha.github.io/Calculator-project/
+
 **Connect with me:** 
 - Email:nallaballeanuha@gmail.com
